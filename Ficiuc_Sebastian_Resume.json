@@ -1,0 +1,142 @@
+{
+  "selectedTemplate": 7,
+  "headings": {
+    "education": "",
+    "projects": "Projects",
+    "awards": "Achievements",
+    "skills": "Skills and Interests",
+    "work": "About Me"
+  },
+  "basics": {
+    "name": "Ficiuc Florin-Sebastian",
+    "email": "ficiuc.florin.sebastian@gmail.com",
+    "location": {
+      "address": "Cluj-Napoca"
+    },
+    "phone": "Phone : 0040 743 229 802 ; Skype : sebastianflorin21",
+    "website": "github.com/FiciucSebastian/Resume"
+  },
+  "education": [
+    {
+      "location": "Cluj-Napoca",
+      "area": "Computer Sience",
+      "gpa": "",
+      "institution": "Babes Bolyai University",
+      "studyType": "Bachelor",
+      "startDate": "Oct 2018"
+    },
+    {
+      "institution": "Stefan cel Mare High School",
+      "location": "Suceava",
+      "area": "Mathematics-Informatics",
+      "studyType": "High School Diploma",
+      "startDate": "Sep 2014",
+      "endDate": "Iun 2018"
+    }
+  ],
+  "work": [
+    {
+      "location": "",
+      "position": "Highly motivated 2nd year computer science student interested in the latest technologies and enthusiastic about learning new things. I am a quick learner and I do not shy away from a challenge",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        "Mathematics"
+      ],
+      "name": "Talents"
+    },
+    {
+      "keywords": [
+        "Java - IntelliJ",
+        "Python - Pycharm",
+        "Prolog - Swig Prolog",
+        "Lisp - CLisp",
+        "C/C++ - Visual Studio",
+        "Assembly - NASM"
+      ],
+      "name": "Programming Languages"
+    },
+    {
+      "keywords": [
+        "Boy scout attitude",
+        "Sociable",
+        "Adaptable",
+        "Initiative"
+      ],
+      "name": "Traits"
+    },
+    {
+      "keywords": [
+        "English - CEFR Level C1"
+      ],
+      "name": "Languages"
+    },
+    {
+      "keywords": [
+        "Modern programming languages",
+        "Debug/Study existing apps or games",
+        "Back-End",
+        "Multiplayer part of video games"
+      ],
+      "name": "Interests"
+    }
+  ],
+  "projects": [
+    {
+      "url": "https://bit.ly/2TfLt6n",
+      "keywords": [
+        ""
+      ],
+      "name": "Volunteer Work",
+      "description": "Interact is a non-governmental, non-profit organization focused on the direct and indirect benefits of high school teamwork."
+    },
+    {
+      "keywords": [
+        "Java - IntelliJ"
+      ],
+      "name": "Room Service",
+      "description": "This project was made for university. Despite the fact that I had minimal requirements, I tried to make the project more realistic, to be more for real life situations , not just a normal one. It was about room service. An interface for an admin and more for rooms. Admin could add products and complete rooms orders, and rooms could select multiple products for themselves as an order."
+    }
+  ],
+  "awards": [
+    {
+      "date": "May 2016",
+      "summary": "",
+      "title": "The National Mathematics Olympiad",
+      "awarder": "Participation"
+    },
+    {
+      "title": "The Computer Science County Olympiad",
+      "date": "Mar 2014, Mar 2015, Mar 2016",
+      "awarder": "Participation, 3rd Place, Participation"
+    },
+    {
+      "title": "The inter-county computer science competition",
+      "date": "Feb 2014",
+      "awarder": "1st Place"
+    },
+    {
+      "title": "Cambridge Certification",
+      "date": "Jun 2018",
+      "awarder": "Council of Europe Level C1"
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "work",
+    "education",
+    "skills",
+    "awards",
+    "projects"
+  ]
+}
