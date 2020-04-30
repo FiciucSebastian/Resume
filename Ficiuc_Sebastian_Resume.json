@@ -105,6 +105,21 @@
       ],
       "name": "Room Service",
       "description": "This project was made for university. Despite the fact that I had minimal requirements, I tried to make the project more realistic, to be more for real life situations , not just a normal one. It was about room service. An interface for an admin and more for rooms. Admin could add products and complete rooms orders, and rooms could select multiple products for themselves as an order."
+    },
+    {
+      "keywords": [
+        "C++ - Eclipse"
+      ],
+      "name": "Online Shopping",
+      "description": "This project was made for university. Altought there were no tasks of great difficulty, I wanted to think more complex and to implement everything that an actual online shop gives you. It was about online shopping. I had to implement an interface for an admin and more for customers. Admin could add products and complete all orders, and customers could select multiple products for themselves in a cart and then to order them."
+    },
+    {
+      "keywords": [
+        "C#  - Rider/Visual Studio",
+        "Database - SQL Server"
+      ],
+      "name": "MotoGP",
+      "description": "This was an university project. For me it was one of the hardest project because I have encountered many problems, most of them related to the connection to the database. It took a long time to fix the errors, but with the help of the internet and some examples of the teacher I have managed to finish the work. The project was about motorcycle championship. It had a login interface and a main one. Each participant had to login either to register or to see the races with the number of participants."
     }
   ],
   "awards": [
